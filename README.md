@@ -33,9 +33,9 @@ You can use the website to generate badges: https://shields.io/
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Mobile (Kotlin/Java/ReactNative) Application Development
+- 🔭 &nbsp; I’m currently learning Web Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I’m currently undergrad student at FCIS ASU in Egypt
+- 🎓 &nbsp; I’m currently undergrad student at FCIS ASU in Egypt.
 - 💼 &nbsp; Software Engineer.
 - 🌱 &nbsp; Enthusiast in Game Development & XR Development.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
