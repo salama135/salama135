@@ -29,7 +29,7 @@ You can use the website to generate badges: https://shields.io/
 
 
         
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/f9f538569c006d7369a87308b93272f7/tenor.gif?itemid=4884111" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
