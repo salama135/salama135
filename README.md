@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!-- Your title -->
-## Hello, I'm Ahmed!
+## Hello, I'm Ahmed but you can call me salama cause there are just too many ahmeds in the world xD!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
@@ -35,7 +35,7 @@ You can use the website to generate badges: https://shields.io/
 
 - 🔭 &nbsp; I’m currently learning Web Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I’m currently undergrad student at FCIS ASU in Egypt.
+- 🎓 &nbsp; Graduated from FCIS ASU software engineering department.
 - 💼 &nbsp; Software Engineer.
 - 🌱 &nbsp; Enthusiast in Game Development & XR Development.
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
