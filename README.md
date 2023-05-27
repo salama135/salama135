@@ -34,12 +34,13 @@ You can use the website to generate badges: https://shields.io/
 <h3> 👨🏻‍💻 About Me </h3>
 
 <h4> Bio </h4>
-- I'm a software engineer that has attention to detail. 
-- I like to be organized at work and with my life. 
-- I always strive for perfection or as close as i can get to it.
-- I like to be labelled as a generalist as i feel a software engineer shouldn't just be a "coder" in a certain stack but he should be a programmer with all stacks and fields be in his grasp. 
-- These words are just what i strive to be everyday.
+- &nbsp; I'm a software engineer that has attention to detail. 
+- &nbsp; I like to be organized at work and with my life. 
+- &nbsp; I always strive for perfection or as close as i can get to it.
+- &nbsp; I like to be labelled as a generalist as i feel a software engineer shouldn't just be a "coder" in a certain stack but he should be a programmer with all stacks and fields be in his grasp. 
+- &nbsp; These words are just what i strive to be everyday.
 
+<br>
 
 - 🔭 &nbsp; I’m currently learning Web Application Development.
 - 🤔 &nbsp; Exploring new technologies and developing software & automation solutions.
