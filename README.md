@@ -53,5 +53,5 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=salama135&show_icons=true&hide_border=true)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salama135&layout=compact&theme=radical)](https://github.com/salama135?tab=repositories)  | ![visitors](https://visitor-badge.laobi.icu/badge?page_id=salama135)
+![Github stats](https://github-readme-stats.vercel.app/api?username=salama135&show_icons=true&hide_border=true)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=salama135&layout=compact&theme=radical)](https://github.com/salama135?tab=repositories)   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=salama135)
 
