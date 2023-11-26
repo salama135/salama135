@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-salama-182408161/)
-[![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1_pVPYTK-xjvIKhMmw39TNwBDZIacYlTC/view?usp=sharing)
+[![Resume]([https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1_pVPYTK-xjvIKhMmw39TNwBDZIacYlTC/view?usp=sharing](https://docs.google.com/document/d/e/2PACX-1vQRz6PDD4_O-LH9yY55px02aXww7f2W71m0JRyhNujKKy4VP_UnpLIa23iIvGzhNBN9Ul1Nz151MJq8/pub))
 
 
 
