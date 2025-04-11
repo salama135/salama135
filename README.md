@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <!-- Your title -->
-## Hello, I'm Ahmed but you can call me salama cause there are just too many ahmeds in the world xD!
+## Hello, I'm Ahmed, but you can call me Salama because there are just too many Ahmeds in the world xD!
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
